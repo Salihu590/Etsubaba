@@ -76,7 +76,7 @@ const AboutUs = () => {
         viewport={{ once: true }}
       >
         <h2 className="text-2xl sm:text-3xl font-bold text-yellow-800 mb-4">
-          Who We Ar
+          Who We are
         </h2>
         <p className="text-gray-600 text-lg">
           We are a close-knit family of descendants from the great Etsu Baba,
