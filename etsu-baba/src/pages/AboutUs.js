@@ -100,7 +100,7 @@ const AboutUs = () => {
             {
               icon: <FaBalanceScale size={35} />,
               title: "Integrity",
-              desc: "Transparency and honesty in all dealing.",
+              desc: "Transparency and honesty in all dealings.",
             },
             {
               icon: <FaChartLine size={35} />,
